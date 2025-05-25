@@ -13,18 +13,18 @@ I'm a passionate Unity game developer from Pakistan with hands-on experience bui
 ### 🔧 Tech Stack
 
 - **Game Engine:** Unity
-- **Languages:** C#, JavaScript (basics)
-- **Tools:** Visual Studio, Git, Photoshop, Blender (learning)
-- **Libraries/Plugins:** DOTween, TextMeshPro, Unity UI Toolkit
+- **Languages:** C#
+- **Tools:** Visual Studio, Git
+- **Libraries/Plugins:** TextMeshPro, Unity UI Toolkit
 
 ---
 
 ## 🎯 My Goals
 
-- 🎓 Final Year Project based on Pakistani culture
-- ✈️ Apply for Erasmus Mundus (RE:Play) Game Design Master’s
-- 🕹️ Build games that tell meaningful stories
-- 🧑‍💻 Collaborate with artists, designers, and fellow developers
+- 🎓 Final Year Project based on Pakistani culture  
+- ✈️ Apply for Erasmus Mundus (RE:Play) Game Design Master’s  
+- 🕹️ Build games that tell meaningful stories  
+- 🧑‍💻 Collaborate with artists, designers, and fellow developers  
 - 🏆 Start my own game studio someday!
 
 ---
@@ -41,20 +41,17 @@ I'm a passionate Unity game developer from Pakistan with hands-on experience bui
 
 ## 🧩 Fun Facts
 
-- I completed **Red Dead Redemption 2**, **GTA V**, and **Watch Dogs 2** — and loved every second.
-- I host **Lunch & Learn** sessions at my software house every Friday.
+- I completed **Red Dead Redemption 2**, **GTA V**, and **Watch Dogs 2** — and loved every second.  
+- I host **Lunch & Learn** sessions at my software house every Friday.  
 - I’m the **Lead Game Dev** for my university's GDSC team.
 
 ---
 
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🎮 [itch.io](https://yourname.itch.io)
-- 📧 Email: yourname@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-fishan-qaisar)
+- 📧 Email: iamfishan011@gmail.com
 
 ---
 
 > *"I don't just play games — I build them."*
-
