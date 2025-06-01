@@ -32,7 +32,7 @@ I'm a passionate Unity game developer from Pakistan with hands-on experience bui
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Sorting Machine Game](https://github.com/Fishan-Rajpoot/AudioManagerPackage) | A light weight audio manager | Unity, C# |
+| [Audio Manager](https://github.com/Fishan-Rajpoot/AudioManagerPackage) | A light weight audio manager | Unity, C# |
 
 ---
 
