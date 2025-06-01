@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Fishan Qaisar
 
-🎮 **Unity Game Developer** | ✨ **Creative Coder** | 🌍 **Game Design Enthusiast**
+🎮 **Unity Game Developer** | ✨ **Creative Coder**
 
 Welcome to my introductory GitHub repository! This space is a quick overview of who I am, what I do, and where I’m headed in the world of game development.
 
@@ -15,7 +15,6 @@ I'm a passionate Unity game developer from Pakistan with hands-on experience bui
 - **Game Engine:** Unity
 - **Languages:** C#
 - **Tools:** Visual Studio, Git
-- **Libraries/Plugins:** TextMeshPro, Unity UI Toolkit
 
 ---
 
@@ -33,15 +32,12 @@ I'm a passionate Unity game developer from Pakistan with hands-on experience bui
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Deal Generator](https://github.com/your-username/deal-generator) | A Unity tool that creates randomized deals with material percentages | Unity, C# |
-| [Joyland Simulator](https://github.com/your-username/joyland-simulator) | A theme park sim inspired by local amusement parks | Unity, DOTween |
-| [Sorting Machine Game](https://github.com/your-username/sorting-machine) | A drag-and-drop item sorter with raycasts | Unity, C# |
+| [Sorting Machine Game](https://github.com/Fishan-Rajpoot/AudioManagerPackage) | A light weight audio manager | Unity, C# |
 
 ---
 
 ## 🧩 Fun Facts
 
-- I completed **Red Dead Redemption 2**, **GTA V**, and **Watch Dogs 2** — and loved every second.  
 - I host **Lunch & Learn** sessions at my software house every Friday.  
 - I’m the **Lead Game Dev** for my university's GDSC team.
 
