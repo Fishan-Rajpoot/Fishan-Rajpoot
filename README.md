@@ -36,13 +36,6 @@ I'm a passionate Unity game developer from Pakistan with hands-on experience bui
 
 ---
 
-## 🧩 Fun Facts
-
-- I host **Lunch & Learn** sessions at my software house every Friday.  
-- I’m the **Lead Game Dev** for my university's GDSC team.
-
----
-
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-fishan-qaisar)
